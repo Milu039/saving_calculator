@@ -26,5 +26,5 @@ The Widget used in this application:
 10. Image, used to display the images
 
 ---------------------------------------------------------------------------
-This application apporach a method claculate() for the calculation.
-To validate the data type of the input values is daouble, im using the tryparse() to ensure the value is in double and return null value if the value is not valid for double type to prevent system crashing.
+This application apporoach a method calculate() for the calculation.
+To validate the data type of the input values is double, im using the tryparse() to ensure the value is in double and return null value if the value is not valid for double type to prevent system crashing.
