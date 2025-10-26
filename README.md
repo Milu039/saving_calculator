@@ -23,6 +23,7 @@ The Widget used in this application:
 7. Column, arrage the widget in vertical layout 
 8. Padding, spacing the widget between the scaffold
 9. SizedBox, a box used to separate between the widget 
+10. Image, used to display the images
 
 ---------------------------------------------------------------------------
 This application apporach a method claculate() for the calculation.

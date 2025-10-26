@@ -25,6 +25,7 @@ class _SplashpageState extends State<Splashpage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
+            Image.asset('assets/images/icon.png', scale: 2),
             Center(child: Text('Saving Goal Calculator')), 
             SizedBox(height: 10),
             Center(child: CircularProgressIndicator()), 
