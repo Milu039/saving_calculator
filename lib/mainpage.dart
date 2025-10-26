@@ -88,10 +88,11 @@ class _MainPageState extends State<MainPage> {
       );
       ScaffoldMessenger.of(context).showSnackBar(snackBar);
       return;
-    }
-    //calculate the week 
+    }else{
+      //calculate the week 
     totalWeeks = (targetAmount - startingBalance) / savingPerWeek;
     totalWeeks = double.parse(totalWeeks.toStringAsFixed(2));
+    }
     setState(() {});
   }
 }
