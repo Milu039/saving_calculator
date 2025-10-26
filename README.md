@@ -27,4 +27,4 @@ The Widget used in this application:
 
 ---------------------------------------------------------------------------
 This application apporoach a method calculate() for the calculation.
-To validate the data type of the input values is double, im using the tryparse() to ensure the value is in double and return null value if the value is not valid for double type to prevent system crashing.
+To validate the data type of the input values is double, im using the tryparse() to ensure the value is in double and return null value if the value is not valid for double type to prevent system crashing.I’m also using if else statement to validate the values of the input and propose different process (show error message or perform calculation).
