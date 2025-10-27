@@ -4,7 +4,7 @@
 Saving Goal Calculator is a flutter application, used to calculate the week to reach the saving goal. By enter the target amount, starting amount and saving per week, this application will calculate the total week needed to reach the goal.
 
 ---------------------------------------------------------------------------
-Input : Target Amount , Starting Amount ,Saving per week. all these input data type are double
+Input : Target Amount , Starting Amount ,Saving per week.
 
 Process :                  
 Total Week = (Target Amount - Starting Amount) / Saving per week
